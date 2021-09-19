@@ -1,0 +1,21 @@
+
+#main-container{
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+#login-column{
+    display: flex;
+    flex-direction: column;
+}
+
+#signup-column{
+    display: flex;
+    flex-direction: column;
+}
+
+body{
+    background:linear-gradient(to right,#9370db,#ba55d3);
+    padding: 0;
+    margin: 0;
+}
